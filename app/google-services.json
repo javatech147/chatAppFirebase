@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "180521588695",
+    "firebase_url": "https://ichatapp-f1b57.firebaseio.com",
+    "project_id": "ichatapp-f1b57",
+    "storage_bucket": "ichatapp-f1b57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180521588695:android:9b9f7642f2caa50c",
+        "android_client_info": {
+          "package_name": "com.waytojava.ichatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "180521588695-41etr99151cmp2t4u7uh2r0vi5q2rk11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoMxLBihA91QHe2kM_IdkARquI7v75ylU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
